@@ -23,6 +23,9 @@ const app = Vue.createApp({
 			this.gender = results[0].gender
 			this.picture = results[0].picture.large
 
+
+
+
 	},
 },
 })
